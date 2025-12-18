@@ -1,0 +1,32 @@
+{
+  "version": 1,
+  "base_track": "我がまま",
+  "base_artist": "くじら",
+  "createdAt": "2025-12-18T08:33:07.951140Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "我がまま",
+      "artist": "whaledontsleep",
+      "has_synced": true,
+      "path": "select/01_我がまま_whaledontsleep.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "我がまま　 - Be a Good Egoist",
+      "artist": "whaledontsleep",
+      "has_synced": true,
+      "path": "select/02_我がまま_-_Be_a_Good_Egoist_whaledontsleep.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "我がまま",
+      "artist": "くじら",
+      "has_synced": false,
+      "path": "select/pl_01_我がまま_くじら.txt"
+    }
+  ]
+}
